@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Victor-Cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="40" height="40"/>
     <img align="center" alt="Victor-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/>
     <img align="center" alt="Victor-Py" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<!--     <img align="center" alt="dJango" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> -->
+    <img align="center" alt="dJango" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
   </div><br/>
 
 <div>
